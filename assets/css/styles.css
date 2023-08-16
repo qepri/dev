@@ -73,3 +73,33 @@ body {
  .skills div {
      text-align: center;
 }
+
+@media (max-width: 768px) {
+
+header {
+     padding: 0.15vh;
+     font-size: 13px;
+     }
+   
+section {
+     padding: 2vw;
+     color: white;
+}
+
+.hero {
+     padding:5px 20px 40px;
+}
+
+.title {
+     flex-direction: column-reverse;
+}
+
+.skills {
+     padding: 20px 2vw;
+}
+
+.skills video {
+     width: 90%;
+}
+
+}
