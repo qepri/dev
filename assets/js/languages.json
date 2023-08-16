@@ -1,0 +1,24 @@
+
+{
+    "en": {
+      "headerName": "Sergio Aguirrre",
+      "title": "Website Design / Front End Developer",
+      "subtitle": "Memorable Interconnected Experiences",
+      "experienceTitle": "5 years experience",
+      "experienceDesc1": "Passionate Front-End Developer with a dedicated focus on designing and crafting visually captivating, responsive websites. With over 5 years of experience, I specialize in tailoring websites to clients' unique needs and preferences, while also adeptly utilizing website builders when required. Proficient in HTML, CSS, JavaScript, and Bootstrap, I am committed to delivering seamless user experiences. My proven track record showcases a history of providing high-quality design and code for various enterprise web applications. My expertise extends to creating immersive WebXR experiences through Aframe.",
+      "experienceDesc2": "Additionally, I possess strong knowledge of WordPress and WooCommerce. I thrive on staying at the forefront of technology trends, maintaining a proactive approach to learning. At present, I am delving into the realm of latent diffusion models (LDM) to further push the boundaries of innovation in web development.",
+      "portfolio": "Portfolio",
+      "clientWork": "Clients work"
+    },
+    "es": {
+      "headerName": "Sergio Aguirrre",
+      "title": "Diseño de Sitios Web / Desarrollador Front End",
+      "subtitle": "Experiencias Interconectadas Memorables",
+      "experienceTitle": "5 años de experiencia",
+      "experienceDesc1": "Desarrollador Front-End apasionado con un enfoque dedicado en diseñar y crear sitios web visualmente cautivadores y responsivos. Con más de 5 años de experiencia, me especializo en adaptar sitios web a las necesidades y preferencias únicas de los clientes, mientras también utilizo hábilmente constructores de sitios web cuando se requiere. Proficiente en HTML, CSS, JavaScript y Bootstrap, estoy comprometido a entregar experiencias de usuario sin problemas. Mi historial comprobado muestra una historia de proporcionar diseño y código de alta calidad para diversas aplicaciones web empresariales. Mi experiencia se extiende a la creación de experiencias WebXR inmersivas a través de Aframe.",
+      "experienceDesc2": "Además, poseo un sólido conocimiento de WordPress y WooCommerce. Me esfuerzo por estar a la vanguardia de las tendencias tecnológicas, manteniendo un enfoque proactivo en el aprendizaje. En la actualidad, me estoy sumergiendo en el ámbito de los modelos de difusión latente (LDM) para seguir ampliando los límites de la innovación en el desarrollo web.",
+      "portfolio": "Portafolio",
+      "clientWork": "Trabajo para clientes"
+    }
+  }
+  
