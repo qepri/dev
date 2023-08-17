@@ -1,0 +1,17 @@
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\tools\qepri_tool_ai.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\aliato.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\Dermico.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\EFO.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\esfera.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\gideas.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\kristian.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\kwalhia.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web\qepri.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\arte.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\diafam.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\esfera_festival.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\esfera_foto.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\kordac.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\orkistrimi.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\planetario.png
+C:\Users\qepri\Documents\GitHub\dev_sergio\dev\assets\img\mockup\web_xr\psynema.png

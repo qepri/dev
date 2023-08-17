@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Dermico",
+    "src": "assets/img/mockup/web/Dermico.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "Dermico.png",
+    "url": "https://web.archive.org/web/20230816155413if_/https://dermico.mx/"
+  },
+  {
+    "title": "Gideas",
+    "src": "assets/img/mockup/web/gideas.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "gideas.png",
+    "url": "https://web.archive.org/web/20221206215317if_/https://gideas.com.mx/"
+  },
+  {
+    "title": "Kristian Macías",
+    "src": "assets/img/mockup/web/kristian.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "kristian.png",
+    "url": "https://web.archive.org/web/20210307171012if_/https://kristianmacias.com/"
+  },
+  {
+    "title": "Experimental Films Online",
+    "src": "assets/img/mockup/web/EFO.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "EFO.png",
+    "url": "https://ExperimentalFilms.Online"
+  },
+  {
+    "title": "Esfera Virtual",
+    "src": "assets/img/mockup/web/esfera.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "esfera.png",
+    "url": "https://EsferaVirtual.xyz"
+  },
+  {
+    "title": "Qepri",
+    "src": "assets/img/mockup/web/qepri.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "qepri.png",
+    "url": "https://qepri.xyz"
+  },
+  {
+    "title": "Aliato",
+    "src": "assets/img/mockup/web/aliato.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "aliato.png",
+    "url": "https://web.archive.org/web/20211204183913if_/https://aliato.mx/"
+  },
+  {
+    "title": "Expo: Entre risas y voces",
+    "src": "assets/img/mockup/web_xr/arte.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "arte.png"
+  },
+  {
+    "title": "Dia de la Familia",
+    "src": "assets/img/mockup/web_xr/diafam.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "diafam.png",
+    "url": "https://esferavirtual.xyz/expoDiaFam.html"
+  },
+  {
+    "title": "Kordac Uxmat",
+    "src": "assets/img/mockup/web_xr/kordac.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "kordac.png",
+    "url": "https://kordac-ux.onrender.com/1.html"
+  },
+  {
+    "title": "Kwalhia.com",
+    "src": "assets/img/mockup/web/kwalhia.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "kwalhia.png",
+    "url": "https://kwalhia.com"
+  },
+  {
+    "title": "Festival de la Diversidad",
+    "src": "assets/img/mockup/web_xr/esfera_festival.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "esfera_festival.png",
+    "url": "https://esferavirtual.xyz/Festival01.html"
+  },
+  {
+    "title": "Fototeca Virtual",
+    "src": "assets/img/mockup/web_xr/esfera_foto.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "esfera_foto.png",
+    "url": "https://fototeca.onrender.com"
+  },
+  {
+    "title": "Orkis-Trimi",
+    "src": "assets/img/mockup/web_xr/orkistrimi.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "orkistrimi.png",
+    "url": "https://vr.kwalhia.com/orkistrimi.html"
+  },
+  {
+    "title": "Planetario Fántastico",
+    "src": "assets/img/mockup/web_xr/planetario.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "planetario.png",
+    "url": "https://esferavirtual.xyz/planetas.html"
+  },
+  {
+    "title": "Psynemas",
+    "src": "assets/img/mockup/web_xr/psynema.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "psynema.png",
+    "url": "https://experimentalfilms.online/PSYNEMA.html"
+  },
+  {
+    "title": "Text Divider",
+    "src": "assets/img/mockup/tools/qepri_tool_ai.png",
+    "category": "mockup",
+    "subcategory": "tools",
+    "filename": "qepri_tool_ai.png",
+    "url": "https://sergioaguirrre.xyz/CV/ai_qepri"
+  }
+]

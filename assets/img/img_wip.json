@@ -1,0 +1,108 @@
+[
+  {
+    "title":"Text_Divide",
+    "src": "assets/img/mockup/tools/qepri_tool_ai.png",
+    "category": "mockup",
+    "subcategory": "tools",
+    "filename": "qepri_tool_ai.png",
+	"url": "https://sergioaguirrre.xyz/CV/ai_qepri"
+  },
+  {
+    "src": "assets/img/mockup/web/aliato.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "aliato.png"
+  },
+  {
+    "src": "assets/img/mockup/web/Dermico.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "Dermico.png"
+  },
+  {
+    "src": "assets/img/mockup/web/EFO.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "EFO.png"
+  },
+  {
+    "src": "assets/img/mockup/web/esfera.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "esfera.png"
+  },
+  {
+    "src": "assets/img/mockup/web/gideas.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "gideas.png"
+  },
+  {
+    "src": "assets/img/mockup/web/kristian.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "kristian.png"
+  },
+  {
+    "src": "assets/img/mockup/web/kwalhia.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "kwalhia.png"
+  },
+  {
+    "src": "assets/img/mockup/web/qepri.png",
+    "category": "mockup",
+    "subcategory": "web",
+    "filename": "qepri.png"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/arte.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "arte.png"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/diafam.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "diafam.png"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/esfera_festival.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "esfera_festival.png"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/esfera_foto.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "esfera_foto.png"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/kordac.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "kordac.png"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/orkistrimi.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "orkistrimi.png"
+  },
+  {
+    "title":"Planetario Fántastico",
+    "src": "assets/img/mockup/web_xr/planetario.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "planetario.png",
+"url": "https://esferavirtual.xyz/planetas"
+  },
+  {
+    "src": "assets/img/mockup/web_xr/psynema.png",
+    "category": "mockup",
+    "subcategory": "web_xr",
+    "filename": "psynema.png"
+  }
+]

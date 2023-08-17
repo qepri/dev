@@ -1,60 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sergio Aguirrre Developer </title>
+    <title>Sergio Aguirrre - Website Design & Front-End Development</title>
+    <meta name="description" content="Sergio Aguirrre specializes in website design and front-end development, crafting visually stunning and highly functional websites. Explore services, projects, and collaborations.">
+    <meta name="keywords" content="Sergio Aguirrre, Website Design, Front-End Development, Portfolio, Web Services, WEB XR, Virtual Reality Online, HTML CSS JS">
+    <link rel="canonical" href="https://dev.SergioAguirrre.com" />
+    <link rel="icon" href="logo.png" type="image/png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
-  
-
+    <link rel="stylesheet" href="assets/css/galery.css">
+    
 </head>
 
 <body>
 
     <header>
-        <h2>Sergio Aguirrre</h2>
-        
-        <div class="socials">
-            <a href="mailto:aguirrre.sergio@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
-
-       <a href="https://github.com/qepri" target="_blank"> <i class="fa-brands fa-github"></i></a>
-      
-       <i onclick="invertColors()" class="fa-solid fa-circle-half-stroke"></i> 
-        </div>
-        
+    <h2>Sergio Aguirrre</h2>
+    <div class="socials">
+    <a href="mailto:aguirrre.sergio@gmail.com" target="_blank">
+    <i class="fa fa-envelope"></i></a>
+    
+    <a href="https://github.com/qepri" target="_blank">
+    <i class="fa-brands fa-github"></i></a>
+    <i onclick="invertColors()" class="fa-solid fa-circle-half-stroke"></i> 
+    </div>
     </header>
     
 
     <section>
         <div class="CV title hero">
-          <div>  <h1>Website Design / Front End Developer</h1>
-            <p>Memorable Interconnected Experiences</p>
+          <div><h1
+            style="font-size: 9vh;
+            margin-bottom: -20px;
+            font-family: Times;
+            font-style: italic;">Website Design </h1>
+            
+            <h1
+            style="letter-spacing: 3px;
+            font-size: 3.2vh;"
+            >Front End Developer</h1>
+
+            <p
+            style="background-color: black; color: white; text-align: center;
+            padding: 4px;"
+            >Memorable Interconnected Experiences</p>
         </div>
-            <img  src="https://www.sergioaguirrre.com/assets/img/fotopro/yo/SergioAguirrre.jpg" alt="">
+        <img  src="https://www.sergioaguirrre.com/assets/img/fotopro/yo/SergioAguirrre.jpg" alt="">
         </div>
 
     
     <div class="CV skills">
 
     <div>
-        <video src="https://sergioaguirrre.xyz/CV/vid/web-xr3.mp4" autoplay muted loop></video>
+        <video title="Virtual Reality on Browser, tailored design and development" src="https://sergioaguirrre.xyz/CV/vid/web-xr3.mp4" autoplay muted loop></video>
         <i class="fab fa-html5" title="HTML"></i>
         <i class="fab fa-css3-alt" title="CSS"></i>
-        <i class="fab fa-js" title="JS"></i>
-        <span>JQuery</span> 
+        <i class="fab fa-js" title="JavaScript"></i>
+        <span title="JQuery">JQuery</span> 
         <i class="fab fa-git" title="Git"></i>
         <i class="fab fa-node" title="Node"></i>
         <i class="fab fa-react" title="React"></i>
-        <i class="fa-brands fa-wordpress-simple"></i>
-        <span>Aframe</span>
+        <i class="fa-brands fa-wordpress-simple" title="Wordpress"></i>
+        <span title="Virtual Reality on Web">Aframe</span>
+         
     </div>
-
-
-
     
-    <h2>5 years experience</h2> 
-   
+    
+    <h2>5 years experience</h2>
     <p>
     Passionate Front-End Developer with a dedicated focus on designing and crafting visually captivating,
     responsive websites. With over 5 years of experience, I specialize in tailoring websites to clients'
@@ -73,10 +87,19 @@
 
     <div class="skills" style=" background-color: #414141;">
         <h2> Portfolio</h2>
-        <h3> Clients work</h3>
+        <h3> Design - Development - VR</h3>
+        <div class="masonry">
+            <!-- Images will be appended here by JS -->
+        </div>
     </div>
     </section>
 
+    
+
     <script src="assets/js/theme.js"></script>
+    <script src="assets/js/galery.js"></script>
+  
+  
+   
 </body>
 </html>
