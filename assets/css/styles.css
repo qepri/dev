@@ -54,6 +54,14 @@ canvas {
      padding: 90px;
      align-items: center;
 }
+
+.hero img {
+     border: rgba(255, 255, 255, 0.488);
+     border-style: solid ;
+     border-width: 2px;
+     border-radius: 200px;
+     padding: 10px;
+}
  section .CV {
      border-bottom: 1px solid #ffffff;
      position: relative;
