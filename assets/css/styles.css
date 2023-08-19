@@ -14,9 +14,9 @@ body {
      z-index: 2;
 }
 
-header h2 {
+/* header h2 {
      padding-left: 1vw;
-}
+} */
  header .socials {
      margin-right: 10px;
      font-size: 1.5em;
