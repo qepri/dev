@@ -21,7 +21,7 @@ canvas {
      position: fixed;
      top: 0;
      z-index: 0;
-     opacity: 1;
+     opacity: .52;
     
 }
 
@@ -103,6 +103,41 @@ canvas {
      padding-left: 10px ;
  }
 
+
+/* animations */
+
+
+
+.zoom-in  {
+     animation: zoomIn 1s ease-in-out forwards;
+   }
+ 
+   @keyframes zoomIn {
+     0% {
+       transform: scale(.5);
+       opacity: 0;
+     }
+     100% {
+       transform: scale(1);
+       opacity: 1;
+     }
+   }
+
+   
+   .zoom-in-slow {
+     animation: zoomIn 4s ease-in-out forwards;
+   }
+ 
+   @keyframes zoomIn {
+     0% {
+       transform: scale(.5);
+       opacity: 0;
+     }
+     100% {
+       transform: scale(1);
+       opacity: 1;
+     }
+   }
 
 
 

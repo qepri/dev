@@ -8,7 +8,7 @@ function fetchAndRenderImagesWithButtons() {
         images.forEach(image => {
             // Create a new container for each image+button combo
             const container = document.createElement('div');
-            container.classList.add('image-container');
+            container.classList.add('image-container', 'zoom-in-slow');
             
             // Image element
             const imgElement = document.createElement('img');
