@@ -88,7 +88,8 @@ canvas {
 }
  .skills p {
      padding: 2vh;
-     text-align: justify;
+     text-align: left;
+     font-weight: lighter;
 }
  .skills video {
      margin: 0 auto;
